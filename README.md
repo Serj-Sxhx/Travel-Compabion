@@ -1,2 +1,2 @@
-# Travel-Compabion
+# Travel-Companion
 Tutorial
